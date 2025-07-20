@@ -1,5 +1,3 @@
-# Plagiarism-checker-Python-master
-
 
 # Plagiarism-checker-Python
 
